@@ -7,3 +7,6 @@ NO. 1 BLOCK DIAGRAM
 NO.1 REDUCED BLOCK DIAGRAM
 ![image](https://github.com/hannahsuzette/CSE_BlockDiagramAlgebra_ME_4205_Group6_2024/assets/91923863/c1b8d84d-cde1-4ba6-82c1-d6ed9bb6f5db)
 ![image](https://github.com/hannahsuzette/CSE_BlockDiagramAlgebra_ME_4205_Group6_2024/assets/91923863/6560e424-de15-4bfc-97c5-c78e489c4b81)
+
+NO.1 MANUAL COMPUTATION
+
