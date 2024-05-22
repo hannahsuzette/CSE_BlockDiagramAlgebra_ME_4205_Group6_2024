@@ -1,6 +1,8 @@
 # CSE_BlockDiagramAlgebra_ME_4205_Group6_2024
+
 ARCEGA, HANNAH SUZETTE S.
 ILAGAN, KYLA MAY M.
+
 NO. 1 BLOCK DIAGRAM
 ![image](https://github.com/hannahsuzette/CSE_BlockDiagramAlgebra_ME_4205_Group6_2024/assets/91923863/ddbe0b74-1058-4730-b52a-a0e5f6647b4b)
 ![image](https://github.com/hannahsuzette/CSE_BlockDiagramAlgebra_ME_4205_Group6_2024/assets/91923863/35a427af-4adf-49f9-a2aa-113864563a1e)
