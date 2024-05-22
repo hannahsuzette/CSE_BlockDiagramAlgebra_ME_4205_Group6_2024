@@ -15,7 +15,9 @@ NO.1 REDUCED BLOCK DIAGRAM
 NO.1 MANUAL COMPUTATION
 
 BINAY, MARY NINA V.
+
 ESPITIRU, JERALD ERIC M.
+
 NO2. BLOCK DIAGRAM
 ![Screenshot 2024-05-21 213636](https://github.com/hannahsuzette/CSE_BlockDiagramAlgebra_ME_4205_Group6_2024/assets/159043076/449cdfe8-199d-487f-aca2-8da550b9ca9e)
 ![Screenshot 2024-05-21 213704](https://github.com/hannahsuzette/CSE_BlockDiagramAlgebra_ME_4205_Group6_2024/assets/159043076/39e885cf-057c-486f-ab63-5748310462c6)
