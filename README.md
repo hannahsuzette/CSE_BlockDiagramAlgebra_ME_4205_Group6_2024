@@ -15,6 +15,8 @@ NO.1 REDUCED BLOCK DIAGRAM
 NO.1 MANUAL COMPUTATION
 ![image](https://github.com/hannahsuzette/CSE_BlockDiagramAlgebra_ME_4205_Group6_2024/assets/91923863/75417e73-f312-404f-92fb-8a1a1889983f)
 ![image](https://github.com/hannahsuzette/CSE_BlockDiagramAlgebra_ME_4205_Group6_2024/assets/91923863/31dc32cf-65ae-4f54-b64f-10a71b7f7dc8)
+![438299827_2742283239280871_3753538903997236852_n](https://github.com/hannahsuzette/CSE_BlockDiagramAlgebra_ME_4205_Group6_2024/assets/159096382/69b26b71-b354-488c-8d82-f772a66ad3ec)
+![441584543_1550204192568660_7074503695808401333_n](https://github.com/hannahsuzette/CSE_BlockDiagramAlgebra_ME_4205_Group6_2024/assets/159096382/d59e5124-75a5-4a2f-b283-fefd3f5a7bca)
 
 
 BINAY, MARY NINA V.
